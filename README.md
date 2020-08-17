@@ -1,1 +1,1 @@
-# IntroToProg-Python-Mod06-1
+# IntroToProg-Python-Mod06
